@@ -75,3 +75,4 @@ This extension collects **zero data**. All PDF processing happens entirely on yo
 ## License
 
 MIT
+# CAT tick 2026-09-27_18:51:25 tick=1790535085
